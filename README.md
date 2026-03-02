@@ -22,6 +22,9 @@ Tenho interesse em desenvolver minhas habilidades em programação e ganhar expe
 - Vetores e matrizes
 - Boas práticas de programação
 
+## Idiomas
+- Inglês: nível B2(certificado)
+
 ---
 
 IFSul • Curso técnico na área de tecnologia
